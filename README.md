@@ -22,8 +22,7 @@ A RESTful API for managing movie information, built with Node.js, Express, TypeS
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd movie-management-system
+git clone https://github.com/anas2ahmad/MovieApisApp.git
 ```
 
 2. Install dependencies:
